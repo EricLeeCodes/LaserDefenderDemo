@@ -11,7 +11,7 @@ I like to challenge myself to continue to learn new and interesting things
 
 
 <div  align = "center">
-You can play the game here: bit.ly/laserdefgame
+You can play the game here: https://bit.ly/laserdefgame
 </br>
 </br>
 Here is a small preview:
